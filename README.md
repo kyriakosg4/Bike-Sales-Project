@@ -34,7 +34,7 @@ A new column named Age Brackets was created using an IF function to categorize e
 + Another line chart was created to illustrate the relationship between bike ownership and age categories.
 + This was done by creating a pivot table and inserting a line chart.
   
-3. Owners vs. Non-Owners by Age:
+4. Owners vs. Non-Owners by Age:
 
 + A final line chart was created to compare the sum of bike owners and non-owners with respect to age.
 + This involved creating a pivot table and then inserting a line chart.
